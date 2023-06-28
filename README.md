@@ -4,8 +4,8 @@
 
 👩🏻‍💻Tecnologias utilizadas:
 
-*Vite
-*React Js
+* Vite
+* React Js
 * Typescript
 * Module CSS
 
